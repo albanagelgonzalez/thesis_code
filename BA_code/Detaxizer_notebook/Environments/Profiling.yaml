@@ -1,0 +1,7 @@
+name: Profiling
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python=3.8
+  - paladin
