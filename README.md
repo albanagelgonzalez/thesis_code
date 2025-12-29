@@ -1,4 +1,5 @@
 # Bachelor Thesis Code
+## Title: Metagenomic Evaluation of the Effect of Psychotropic Drugs on the Diversity of Synthetic and Human-Derived Models of the Gut Microbiome
 
 The respository holds all the code generated during the time of the bachelor's thesis. 
 
